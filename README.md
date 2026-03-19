@@ -1,5 +1,3 @@
-[# STUDY-OF-DISPLACEMENT-TRANSDUCER---LVDT
-
 ## Name: Saravanan M
 ## Reg No: 212223080050
 
@@ -37,5 +35,3 @@ To study the operation of LVDT- Linear Variable Differential Transformer.
 <img width="1920" height="1080" alt="Screenshot (11)" src="https://github.com/user-attachments/assets/0384e702-8eac-4a24-ba93-54a93e7603c6" />
 <img width="1920" height="1080" alt="Screenshot (12)" src="https://github.com/user-attachments/assets/4b37e4e1-5b54-4687-ad7e-16dbc5336207" />
 Thus the operation of LVDT was studied and the displacement was measured. 
-
-](https://github.com/sushil-12-cmd/CHARACTERISTICS-OF-PN-JUNCTION-DIODE)
